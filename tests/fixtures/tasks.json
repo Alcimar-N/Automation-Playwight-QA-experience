@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Ler um livro de typescript",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Comprar ketchup",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Pagar a fatura do cartão de credito",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Estudar Ruby",
+        "is_done": false
+    }
+}
