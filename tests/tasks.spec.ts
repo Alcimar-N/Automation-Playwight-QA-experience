@@ -23,6 +23,11 @@ test.describe('cadastro', ()=> {
         await tasksPage.shouldHaveText(task.name)
     
     })
+
+    test('cadastra uma tarefa', async() => {
+
+
+    })
     
     test('não devepermitir tarefa duplicada', async ({ page, request }) => {
         const task = data.duplicate as TaskModel
